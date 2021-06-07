@@ -1,3 +1,10 @@
+/*
+Assignment 1 - Express Portfolio Site  
+Created by: Remedios Meneses
+SN: 300691712
+Submitted on: June 7, 2021
+*/
+
 var express = require('express');
 var router = express.Router();
 

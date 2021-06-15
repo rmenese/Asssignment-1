@@ -1,3 +1,10 @@
+/*
+Assignment 1 - Express Portfolio Site  
+Created by: Remedios Meneses
+SN: 300691712
+Submitted on: June 7, 2021
+*/
+
 // installed 3rd party packages
 let createError = require('http-errors');
 let express = require('express');

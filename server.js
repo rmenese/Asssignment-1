@@ -4,6 +4,13 @@
  * Module dependencies.
  */
 
+/*
+Assignment 1 - Express Portfolio Site  
+Created by: Remedios Meneses
+SN: 300691712
+Submitted on: June 7, 2021
+*/
+
 var app = require('./app');
 var debug = require('debug')('week4:server');
 var http = require('http');

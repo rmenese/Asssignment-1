@@ -10,7 +10,7 @@ var router = express.Router();
 
 /* GET home page. */
 router.get('/', function(req, res, next) {
-  res.render('index', { title: 'Home'});
+  res.render('login', { title: 'Home'});
 });
 
 /* GET home page. */
@@ -37,5 +37,7 @@ router.get('/services', function(req, res, next) {
 router.get('/contact', function(req, res, next) {
   res.render('contact', { title: 'Contact'});
 });
+
+
 
 module.exports = router;
